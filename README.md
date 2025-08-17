@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aishajabr25
-- 👀 I’m interested in software engineering, coding and AI
+- 👀 I’m a software engineer, interested in Robotics and AI in general
 - 🌱 I’m currently learning Machine Leaning 
 - 💞️ I’m looking to collaborate on coding, and ML
 - 📫 How to reach me: aishajabr@outlook.com
